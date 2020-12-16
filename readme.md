@@ -1,1 +1,1 @@
-experimenting with music engraver Lilypond
+experiment with music engraver Lilypond
